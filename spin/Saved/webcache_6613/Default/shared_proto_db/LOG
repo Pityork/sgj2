@@ -1,2 +1,3 @@
-2026/06/24-13:05:24.347 1514 Creating DB C:\Users\majka\Documents\GitHub\sgj2\spin\Saved\webcache_6613\Default\shared_proto_db since it was missing.
-2026/06/24-13:05:24.353 1514 Reusing MANIFEST C:\Users\majka\Documents\GitHub\sgj2\spin\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/06/24-14:48:39.736 6300 Reusing MANIFEST C:\Users\majka\Documents\GitHub\sgj2\spin\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/06/24-14:48:39.736 6300 Recovering log #3
+2026/06/24-14:48:39.736 6300 Reusing old log C:\Users\majka\Documents\GitHub\sgj2\spin\Saved\webcache_6613\Default\shared_proto_db/000003.log 
