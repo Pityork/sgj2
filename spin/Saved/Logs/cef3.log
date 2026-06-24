@@ -1,6 +1,17 @@
-[11104:27936:0624/180646.235:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[11104:5336:0624/180646.275:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[11104:27936:0624/180646.294:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[31848:34340:0624/180649.841:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B262057A97D6210F463B04F27EEF720E will be ignored
-[11104:27936:0624/180655.508:ERROR:device_event_log_impl.cc(196)] [18:06:55.175] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Nie można odnaleźć elementu. (0x490)
-[11104:27936:0624/185335.573:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[7996:21764:0624/181117.606:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[7996:21764:0624/181117.617:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[7996:14916:0624/181117.635:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[7996:21764:0624/181117.649:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[7996:21764:0624/181119.727:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[7996:3232:0624/181119.728:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC\Documents\GitHub\sgj2\spin\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC\Documents\GitHub\sgj2\spin\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7996:3232:0624/181119.730:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC\Documents\GitHub\sgj2\spin\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC\Documents\GitHub\sgj2\spin\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7996:3232:0624/181119.732:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC\Documents\GitHub\sgj2\spin\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC\Documents\GitHub\sgj2\spin\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7996:3232:0624/181119.734:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC\Documents\GitHub\sgj2\spin\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC\Documents\GitHub\sgj2\spin\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[9500:22820:0624/181120.206:ERROR:backend_impl.cc(989)] Critical error found -8
+[7996:9144:0624/181120.212:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7996:9144:0624/181120.218:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[9500:22820:0624/181120.424:WARNING:storage_block-inl.h(138)] Failed data load.
+[9500:22820:0624/181120.424:WARNING:storage_block-inl.h(138)] Failed data load.
+[9500:22820:0624/181120.425:ERROR:entry_impl.cc(955)] Failed to save user data
+[9952:18964:0624/181120.667:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3C68D49C459B6880209325AABC309B96 will be ignored
+[7996:21764:0624/184830.118:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
